@@ -7,7 +7,7 @@ I'm a beginner programmer
 * 🌍  I'm based in Texas.
 * 🖥️  Portfolio coming soon 👀
 * ✉️  You can contact me at [contact.tejas.e@gmail.com](mailto:contact.tejas.e@gmail.com)
-* 🚀  I'm currently working on programming an [autonomous robot](http://https://github.com/elMonkee/Maze-Solving-Robot) to solve a maze in python.
+* 🚀  I'm currently working on programming an [autonomous robot](https://github.com/seldomgreeen/Maze-Solving-Robot) to solve a maze in python.
 * 🤝  I'm open to collaborating on basic python projects.
 
 ### Followers
